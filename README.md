@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-<img src="https://i.ibb.co/SJjdwmF/banner-logo.png" alt="WhatsApp Desktop Dark Mode">
+<img src="https://i.ibb.co/Gpx8yZJ/logo-mini.png" alt="WhatsApp Desktop Dark Mode">
   <br>
 WhatsApp Desktop Dark Mode
   <br>
